@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Guilherme Pereira, tenho 19 anos e sou natural do Belo Horizonte (MG). Comecei estudar programação há uma semana,no dia 20 de Janeiro de 2025 assisti minha primeira live sobre programação e me interessei na área. Tenho estudado bastante e atualmente estou focando mais nos estudos de HTML e CSS pra que eu possa aprimorar as habilidades e depois começar a estudar o JS, React e todos outros.
+Me chamo Guilherme, tenho 19 anos e sou natural do Belo Horizonte (MG), mas atualmente moro em Águas Formosas (interior de Minas). Comecei estudar programação há uma semana,no dia 20 de Janeiro de 2025 assisti minha primeira live sobre programação e me interessei muito no estudo de programação e tudo o que essa área nos proporciona. Tenho estudado bastante e atualmente estou trabalhando mais nos estudos de HTML e CSS pra que eu possa aprimorar ainda mais as habilidades e depois começar a estudar o JS, React e todos outros.
 
 ---
 
